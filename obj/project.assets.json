@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Python\\test1\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\User\\source\\repos\\test\\test.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Python\\test1\\test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Python\\test1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

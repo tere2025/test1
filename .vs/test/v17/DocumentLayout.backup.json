@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Python\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2683D03B-AAE0-4C3E-AACA-B63F2E5D92B0}|test.csproj|c:\\users\\user\\source\\repos\\test\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2683D03B-AAE0-4C3E-AACA-B63F2E5D92B0}|test.csproj|c:\\users\\user\\desktop\\python\\test1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2683D03B-AAE0-4C3E-AACA-B63F2E5D92B0}|test.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\test\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python\\test1\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\test\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python\\test1\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-25T20:28:32.467Z",
               "EditorCaption": ""
